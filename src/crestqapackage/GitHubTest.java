@@ -32,11 +32,11 @@ public class GitHubTest {
   private static final String GIT_HUB_URL = "https://github.com"; //"https://github.com/login";
 
   //Enter the username for the Github account you create here
-  private static final String USERNAME = "qian18";
+  private static final String USERNAME = "";
 
   //Enter the password for the Github account you create here.
   //Note: Do not use any of your real-life passwords!
-  private static final String PASSWORD = "Qianjob@2018";
+  private static final String PASSWORD = "";
 
   @Before
   public void setup() {
